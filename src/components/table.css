@@ -1,0 +1,10 @@
+table{
+    background-color: aliceblue;
+}
+.hiddenContent {
+    display: none;
+    overflow: hidden;
+}
+.content{
+    background-color: blanchedalmond;
+}
